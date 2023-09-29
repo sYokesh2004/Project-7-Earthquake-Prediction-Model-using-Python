@@ -1,5 +1,5 @@
-Project-7-Earthquake-Prediction-Model-using-Python
-#Phase 1: Problem Definition and Design Thinking
+#Project-7-Earthquake-Prediction-Model-using-Python
+Phase 1: Problem Definition and Design Thinking
 
 Problem Definition:
 
