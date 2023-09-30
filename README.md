@@ -10,6 +10,7 @@ The problem at hand involves developing an earthquake prediction model utilizing
 **1.Data Source Selection:**
 
 **Task:** Choose an appropriate Kaggle dataset containing earthquake data.
+
 **Action:** Explore various datasets available on Kaggle, focusing on datasets with relevant features such as date, time, latitude, longitude, depth, and magnitude. Select a dataset that is comprehensive and well-maintained.
 
 **2.Feature Exploration:**
